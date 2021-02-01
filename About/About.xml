@@ -14,7 +14,7 @@
 		</li>
 	</modDependencies>
 	<packageId>ubergarm.mpkitchensink</packageId>
-    <!--<steamAppId></steamAppId>-->
+    <steamAppId>2381578953</steamAppId>
     <url>https://github.com/ubergarm/RimWorld-mp-kitchen-sink</url>
     <description>Companion mod for ubergarm's Multiplayer Kitchen Sink Modpack</description>
 </ModMetaData>
