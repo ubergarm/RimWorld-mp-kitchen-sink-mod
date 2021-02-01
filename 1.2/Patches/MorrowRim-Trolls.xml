@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <!-- Elixir Price and TradeTag -->
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[@Name="MorrowRim_TrollElixirBase"]/statBases/MarketValue</xpath>
+        <value>
+            <MarketValue>125</MarketValue>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[@Name="MorrowRim_TrollElixirBase"]/tradeTags</xpath>
+        <value>
+            <li>ExoticMisc</li>
+        </value>
+    </Operation>
+    <!-- Troll Blood Price and TradeTag -->
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="MorrowRim_TrollBlood"]/statBases/MarketValue</xpath>
+        <value>
+            <MarketValue>100</MarketValue>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="MorrowRim_TrollBlood"]/tradeTags</xpath>
+        <value>
+            <li>ExoticMisc</li>
+        </value>
+    </Operation>
+</Patch>
