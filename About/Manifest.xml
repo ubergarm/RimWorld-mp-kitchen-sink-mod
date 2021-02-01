@@ -12,6 +12,6 @@
   </loadBefore>
   <loadAfter>
   </loadAfter>
-  <manifestUri>https://raw.githubusercontent.com/ubergarm/RimWorld-mp-kitchen-sink/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/ubergarm/RimWorld-mp-kitchen-sink/releases/latest</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/ubergarm/RimWorld-mp-kitchen-sink-mod/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/ubergarm/RimWorld-mp-kitchen-sink-mod/releases/latest</downloadUri>
 </Manifest>
