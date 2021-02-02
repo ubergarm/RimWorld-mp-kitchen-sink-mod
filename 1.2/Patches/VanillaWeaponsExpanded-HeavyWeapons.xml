@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Patch>
-    <!-- Remove VWE_Gun_HandheldMortar for Mortar Accuracy Compatibility -->
-    <Operation Class="PatchOperationRemove">
-        <xpath>/Defs/ThingDef[defName="VWE_Gun_HandheldMortar"]</xpath>
-    </Operation>
-</Patch>
